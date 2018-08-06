@@ -1,0 +1,13 @@
+{
+  "candidate_name": "Your Name",
+  "candidate_location": "Your location",
+  "candidate_email": "Your email",
+  "candidate_phone_number": "Your phone number (use country indicative)",
+  "keywords": ["list", "of", "keywords"],
+  "locations": ["list", "of", "cities", "and/or", "countries"],
+  "taboo_rel_path": "docs/taboo.txt",
+  "applied_rel_path": "docs/applied.txt",
+  "targets_rel_path": "docs/targets.txt",
+  "cv_rel_path": "docs/cv.txt",
+  "letter": "Write your introduction letter here. Use \n to create newline for paragraph spacing."
+}
