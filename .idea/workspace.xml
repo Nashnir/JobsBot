@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb3a686f-9628-4a65-a5ae-943df42b8f4d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/configs.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/applied.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/cv.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/targets.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jobs_cli.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jobs_infty.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="cb3a686f-9628-4a65-a5ae-943df42b8f4d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +11,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -29,6 +19,15 @@
                 <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LICENSE.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LICENSE.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="20" selection-end-line="20" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -95,6 +94,7 @@
         <option value="$PROJECT_DIR$/jobs_infty.py" />
         <option value="$PROJECT_DIR$/jobs_cli.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/LICENSE.txt" />
       </list>
     </option>
   </component>
@@ -152,7 +152,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1085353" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -264,6 +265,13 @@
             <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>

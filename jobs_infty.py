@@ -1,3 +1,11 @@
+""" Function to Continuously send job applications.
+
+It wraps jobs_cli.py in an infinity cycle, as to continue the program execution
+after being detected as a bot. This is a very useful program to leave running
+when you are sleeping etc.
+
+"""
+
 import subprocess
 import time
 

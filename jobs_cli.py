@@ -1,3 +1,11 @@
+""" Command Line Interface Programm to run the jobs bot
+
+It runs the jobsBot, with our without passing any parameters.
+Upon being detected as a bot, it will stop the execution, and
+must be manually reactivated to send further job applications.
+
+"""
+
 import argparse
 from jobs.StackJobs import JobsBot
 
